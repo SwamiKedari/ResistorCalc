@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:padding="20dp"
+    android:columnCount="2"
+    android:background="@color/darkwhite">
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_horizontal"
+        android:id="@+id/bands"
+        android:elevation="5dp"
+        android:entries="@array/bandNo"
+        android:background="@color/white"
+        android:layout_columnSpan="2"
+        android:layout_marginBottom="5dp"
+
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="show"
+        android:text="show"
+        android:textSize="17dp"
+        android:layout_marginBottom="5dp"/>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:id="@+id/frames"
+        android:layout_columnSpan="2"
+        />
+
+
+
+</GridLayout>

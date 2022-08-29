@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RCC Calculator</string>
+    <string name="share">Share App</string>
+    <string name="developer">About Us</string>
+    <string name="plusMinus">\u00b1</string>
+    <string name="ohm">\u03a9</string>
+    <string name="degree">\u00b0</string>
+    <string-array name="bandNo">
+        <item>4 Bands</item>
+        <item>5 Bands</item>
+        <item>6 Bands</item>
+    </string-array>
+
+    <string-array name="Colors">
+        <item>Brown</item>
+        <item>Red</item>
+        <item>Orange</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
