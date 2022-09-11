@@ -22,8 +22,8 @@ Calculate the resistance of any resistor in seconds !!!
 ## Along with the facility to get the resistance from the color codes , The feature to convert the resistance to the color codes is yet to be implemented.
   
   <p>
-    <img src="images/photo4.jpg" width="270">&emsp;
-  <img src="images/photo2.jpg" width="270">&emsp;
-    <img src="images/photo3.jpg" width="270">&emsp;
+    <img src="images/photo4.jpg" width="245">&emsp;
+  <img src="images/photo2.jpg" width="245">&emsp;
+    <img src="images/photo3.jpg" width="245">&emsp;
 </p>
 <br>
