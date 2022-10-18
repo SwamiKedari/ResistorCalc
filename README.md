@@ -1,10 +1,10 @@
 # RCC-Calculator
 Resistance calculator based on the Resistor Color Codes 
 
-## RCC-Calculator is an android app which helps the professionals and students who work with the circuits and repeatedly calculate the resistance of the resistor
+## RCC-Calculator app calculates the resistance of the resistor based on the colors in its color codes.It helps the professionals and students who work with the circuits and repeatedly calculate the resistance of the resistor
 Calculate the resistance of any resistor in seconds !!! 
 
-## RCC-Calculator is used to calculate the resistance of any resistor which has 4, 5 or 6 bands .
+## RCC-Calculator can be used to calculate the resistance for all 3 types of resistors with 4 / 5 / 6 bands.
 
 # There are 3 fragments dealing with the 3 types of bands in the app:
 
